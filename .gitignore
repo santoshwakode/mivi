@@ -1,0 +1,7 @@
+/.bundle
+/log/*.log
+.rbenv*
+.ruby-version
+.ruby-gemset
+.mivi_consume.gemspec
+/mivi_consume-0.0.0.gem
